@@ -1,0 +1,11 @@
+show=drun
+mode=drun
+width=40%
+height=25%
+prompt=Aplicativos:
+location=center
+gtk_dark=true
+no_actions=false
+hide_scroll=true
+exec_search=false
+layer=overlay
